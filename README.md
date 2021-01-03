@@ -1,16 +1,14 @@
-### Hi there 👋
+### Lotjhani (Hello!), I am Kgothatso Ntuli👋
 
-<!--
-**KgothatsoN/KgothatsoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
-
+- 🎓 2019 Computer Science (Software Engineering) Graduate 
 - 🔭 I’m currently working on DevMatch
 - 🌱 I’m currently learning RubyOnRails and Python
 - 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 ## ⚡ Fun fact
-
--->
+* Ice Hockey 🏒 and Rugby Player 🏉
+* Love Ice Skating and Golfing 🏌🏿‍
+* Avid Camper 🏕️
