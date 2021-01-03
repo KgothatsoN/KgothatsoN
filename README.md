@@ -12,3 +12,10 @@
 * Ice Hockey 🏒 and Rugby Player 🏉
 * Love Ice Skating and Golfing 🏌🏿‍
 * Avid Camper 🏕️
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Kgothatso's github stats](https://github-readme-stats.vercel.app/api?username=KgothatsoN)](https://github.com/KgothatsoN/github-readme-stats)
+
+</details>
