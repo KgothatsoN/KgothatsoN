@@ -5,7 +5,6 @@
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
 - 🔭 I’m currently working on DevMatch
 - 🌱 I’m currently learning RubyOnRails and Python
-- 🤔 I’m looking for help with JavaScript
 
 
 ## ⚡ Fun fact
