@@ -9,7 +9,7 @@
 
 ## ⚡ Fun fact
 * Ice Hockey 🏒 and Rugby Player 🏉
-* Love Ice Skating and Golfing 🏌🏿‍
+* Ice Skating and Golfing 🏌🏿‍
 * Avid Camper 🏕️
 
 ---
