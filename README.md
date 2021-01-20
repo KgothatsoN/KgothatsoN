@@ -4,7 +4,7 @@
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
 - 🔭 I’m currently working on Envoc
-- 🌱 I’m currently learning RubyOnRails and Python
+- 🌱 I’m currently learning RubyOnRails and JavaScript
 
 
 ## ⚡ Fun fact
