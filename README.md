@@ -3,7 +3,7 @@
 # About Me
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
-- 🔭 I’m currently working on DevMatch
+- 🔭 I’m currently working on Envoc
 - 🌱 I’m currently learning RubyOnRails and Python
 
 
