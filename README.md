@@ -3,14 +3,13 @@
 # About Me
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
-- 🔭 I’m currently working on Evoc
+- 🔭 I’m currently working on TREVA
 - 🌱 I’m currently learning RubyOnRails and JavaScript
 
 
 ## ⚡ Fun fact
-* Ice Hockey 🏒 and Rugby Player 🏉
-* Ice Skating and Golfing 🏌🏿‍
-* Camping 🏕️
+* Ice Hockey 🏒 & Rugby Player 🏉
+* Golfing 🏌🏿‍ & Camping 🏕️
 
 ---
 
