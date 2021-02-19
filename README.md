@@ -4,7 +4,7 @@
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
 - 🔭 I’m currently working on TREVA
-- 🌱 I’m currently learning RubyOnRails and JavaScript
+- 🌱 I’m currently learning Python and JavaScript
 
 
 ## ⚡ Fun fact
