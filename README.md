@@ -3,7 +3,7 @@
 # About Me
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
-- 🔭 I’m currently working on TREVA
+- 🔭 I’m currently working on Task Manger
 - 🌱 I’m currently learning Python and JavaScript
 
 
