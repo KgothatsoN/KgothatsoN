@@ -21,9 +21,9 @@
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=for-the-badge&message=3&color=F7DF1E&logo=javascript)
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   
   ![Kgothatso's github stats](https://github-readme-stats.vercel.app/api?username=KgothatsoN&theme=dark&show_icons=true&hide=contribs)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KgothatsoN&layout=compact"/>
-</details>
+
