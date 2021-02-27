@@ -3,8 +3,7 @@
 # About Me
 
 - 🎓 2019 Computer Science (Software Engineering) Graduate 
-- 🔭 I’m currently working on Task Manger
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning React and JavaScript
 
 
 ## ⚡ Fun fact
