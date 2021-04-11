@@ -8,7 +8,6 @@
 
 ## ⚡ Fun fact
 * Ice Hockey 🏒 & Rugby Player 🏉
-* Golfing 🏌🏿‍ & Camping 🏕️
 
 ---
 
