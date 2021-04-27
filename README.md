@@ -1,4 +1,4 @@
-### Lotjhani (Hello!), I am Kgothatso Ntuli👋
+Kgothatso Ntuli👋
 
 # About Me
 
